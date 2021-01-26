@@ -45,6 +45,22 @@
 		],
 		"description": "Include (superoffice-docs)"
 	},
+	"Add csharp snippet": {
+		"scope": "json, markdown",
+		"prefix": "csharp, code, include, reuse",
+		"body": [
+			"[!code-csharp[CS](includes/FILE.cs)]"
+		],
+		"description": "Include (superoffice-docs)"
+		},
+	"Add HTML snippet": {
+	"scope": "json, markdown",
+	"prefix": "html, code, include, reuse",
+	"body": [
+		"[!code-html[HTML](includes/FILE.html)]"
+	],
+	"description": "Include (superoffice-docs)"
+	},
 	"SO grid card": {
 		"scope": "markdown",
 		"prefix": "card, grid, block",
