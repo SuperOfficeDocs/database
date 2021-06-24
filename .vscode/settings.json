@@ -2,5 +2,24 @@
     "blueprint.templatesPath": [
         "./blueprint-templates",
         "~/templates/superoffice/blueprint"
+    ],
+    "cSpell.words": [
+        "core",
+        "index",
+        "mailgun",
+        "md",
+        "netserver",
+        "osql",
+        "SCIM",
+        "soap",
+        "SoSession",
+        "superoffice",
+        "Watchcom",
+        "webapi",
+        "webshop",
+        "website",
+        "webpage",
+        "web form",
+        "web services"
     ]
 }
